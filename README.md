@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @imthiyazmuhammed
-- 👀 I’m interested in making a better world with code
-- 🌱 I’m on my way to master react and redux
+- 👀 I love building things not just with code
+- 🥳 me uses MERN and also that react native. 
+- 🌱 I work as a developer at @anjamerica
 - 💞️ I love collaboration and Contribution
 - 📫 you can reach me at imthiyaz.muhd@gmail.com
 <!---

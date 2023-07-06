@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on **Aladdin 365**
 
-- 🌱 I’m currently learning **Three js**
+- 🌱 Learning **Three js**
 
 - 👯 Looking to collaborate on **creative ideas**
 

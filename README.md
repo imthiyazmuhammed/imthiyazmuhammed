@@ -11,11 +11,9 @@
 
 - 💬 Ask me about **Javascript, React, Node or anything you wish**
 
-- 📫 How to reach me **imthiyaz.muhd@gmail.com**
+- 📫 Reach me at **imthiyaz.muhd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gVSrOazji7js5EKkQhjgsNIRn-bFF2v-/view?usp=sharing](https://drive.google.com/file/d/1gVSrOazji7js5EKkQhjgsNIRn-bFF2v-/view?usp=sharing)
-
-- ⚡ Fun fact **I am just curious to explore things**
+- 📄 Know about my experiences - [https://drive.google.com/file/d/1gVSrOazji7js5EKkQhjgsNIRn-bFF2v-/view?usp=sharing](https://drive.google.com/file/d/1gVSrOazji7js5EKkQhjgsNIRn-bFF2v-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
